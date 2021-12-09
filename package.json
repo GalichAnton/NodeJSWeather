@@ -1,6 +1,6 @@
 {
-  "name": "weather",
-  "version": "1.0.0",
+  "name": "weather-cli-ag",
+  "version": "1.0.1",
   "description": "CLI for getting weather info",
   "main": "weather.js",
   "bin": {
@@ -17,6 +17,10 @@
   ],
   "author": "Anton Galich",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GalichAnton/NodeJSWeather"
+  },
   "dependencies": {
     "axios": "^0.24.0",
     "chalk": "^5.0.0"
